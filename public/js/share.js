@@ -1,7 +1,7 @@
 let shareData = {
-        title: 'PFP #SAVEPALESTINE',
-        text: 'Join the online revolution',
-        url: 'https://savegazza.netlify.app/',
+        title: 'BK3N',
+        text: 'Semarak Bulan K3 Nasional',
+        url: 'https://twibbonk3.netlify.app/',
       }
 
       const btn = document.querySelector('em');
@@ -10,7 +10,7 @@ let shareData = {
       btn.addEventListener('click', () => {
         navigator.share(shareData)
           .then(() =>
-            resultPara.textContent = 'PFP #SAVEPALESTINE shared successfully'
+            resultPara.textContent = 'Shared successfully'
           )
           .catch((e) =>
             resultPara.textContent = 'Error: Share canceled!'
