@@ -3,16 +3,16 @@
 </script>
 
 <article>
-<h1>PFP {name}</h1>
+<h1>TWIBBON K3</h1>
 <hr>
-<p>You can use this web app to add Palestinian support to your profile picture.</p>
+<p>Yuk buat Twibbon BK3N kamu!</p>
 
 <div id='full'>
 <p><canvas></canvas></p>
 
 <p>
-<label class="dropbox" for="full-img" style="text-align: center;">place the file or click upload.</label>
-<input type="file" id="full-img" accept="image/*" aria-label="Select the picture you want to use" hidden>
+<label class="dropbox" for="full-img" style="text-align: center;">Drop gambar atau klik untuk mengupload.</label>
+<input type="file" id="full-img" accept="image/*" aria-label="Pilih gambar" hidden>
 </p>
 
 <div class="row">
@@ -35,14 +35,14 @@
 <a  class="close" data-modal-close href="#">x</a>
 <h3>Tutorial:</h3>
 <hr>
-<h2>Upload Your Photo</h2>
-<p>Start the transformation quickly by uploading a photo of your choice using the <strong>place image file here button or click to upload.</strong></p>
+<h2>Upload Gambarmu</h2>
+<p>Klik tombol <strong>Drop gambar atau klik untuk mengupload.</strong></p>
 
-<h2>Zoom and Filters</h2>
-<p>Fit your image appropriately in #Palestine frame. Our editor lets you crop and position easily, ensuring your profile picture perfectly reflects your style and message.</p>
+<h2>Zoom dan Filters</h2>
+<p>Sesuaikan posisi dan ukuran gambar anda</p>
 
-<h2>Download Your Profile Photo</h2>
-<p>It's time to use your new profile picture! Just press the <strong>Download</strong> button of the photo you created to save it instantly. Share your support for Palestine with your unique profile photo.</p>
+<h2>Download Twibbon</h2>
+<p>Klik <strong>Download</strong> untuk menyimpan!</p>
 
 <p>Was this answer useful to you?</p>
 
