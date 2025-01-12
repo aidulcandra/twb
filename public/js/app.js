@@ -237,7 +237,7 @@ divide.canvas.addEventListener('touchmove', function (e) {
 
 divide.save.addEventListener('click', function () {
   divide.canvas.toBlob(function (blob) {
-    window.saveAs(blob, '#freepalestine.png');
+    window.saveAs(blob, 'twibbon-k3.png');
   });
 });
 
